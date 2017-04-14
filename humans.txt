@@ -1,0 +1,14 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+  <Adrian Smith> -- <Web Designer> -- <twitter>
+
+# THANKS
+
+  <Adrian>
+
+# TECHNOLOGY COLOPHON
+
+  HTML5, CSS3
